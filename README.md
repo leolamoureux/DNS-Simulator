@@ -1,5 +1,5 @@
 # DNS-Simulator
-application Java de simulation d'interrogation d'un DNS
-Léo Lamoureux 
-étudiant UVSQ L3 informatique
-21602944
+application Java de simulation d'interrogation d'un DNS\n
+Léo Lamoureux \n
+étudiant UVSQ L3 informatique\n
+21602944\n
