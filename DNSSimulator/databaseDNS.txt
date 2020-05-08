@@ -1,0 +1,9 @@
+www.facebook.com 179.60.192.36
+www.google.com 216.58.204.132
+dns.google.com 8.8.8.8
+login.facebook.com 179.60.192.3
+georgie.bonjourdumonde.com 167.114.237.50
+books.google.com 216.58.206.238
+about.google.com 216.58.215.46
+support.google.com 216.58.213.174
+en.wikipedia.org 91.198.174.192
